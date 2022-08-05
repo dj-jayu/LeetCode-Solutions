@@ -1,6 +1,6 @@
 // name: TwoPointers.java
 
-// Time: O(n) -> We pass through each string once
+// Time: O(|t|) -> In the worst case we do one comparison for each character of the target string
 // Space: O(1) -> We use the same number of auxiliary variables (2 ints) independently of the input size
 
 class Solution {
