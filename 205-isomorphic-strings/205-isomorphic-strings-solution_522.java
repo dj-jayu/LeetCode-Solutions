@@ -6,7 +6,7 @@ class Solution {
     public boolean isIsomorphic(String s, String t) {
         // We create 2 new strings
         // coded in the 'first index language'
-        // It work like this:
+        // It works like this:
         // Every character is translated
         // to the index of the first appearance
         // of this character in the string
